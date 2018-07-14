@@ -1,1 +1,1 @@
-# infovis
+# Curso ITBA - Data Visualization
